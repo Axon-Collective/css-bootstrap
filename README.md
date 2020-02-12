@@ -1,3 +1,8 @@
+# CSS-Bootstrap
+## A fork of the popular Bootstrap repo but with modernized css controls
+
+This is a fresh fork of bootstrap and no development has been done yet. The ultimate goal is to make a version of bootstrap that uses CSS for customization instead of SCSS. This will allow for real-time personalization of web content using the bootstrap framework. 
+
 <p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/docs/4.3/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
